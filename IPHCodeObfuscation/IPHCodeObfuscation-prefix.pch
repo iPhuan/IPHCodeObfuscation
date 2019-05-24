@@ -1,0 +1,14 @@
+//
+//  IPHCodeObfuscation-prefix.pch
+//  IPHCodeObfuscation
+//
+//  Created by iPhuan on 2017/11/23.
+//  Copyright © 2017年 iPhuan. All rights reserved.
+//
+
+#ifndef IPHCodeObfuscation_prefix_pch
+#define IPHCodeObfuscation_prefix_pch
+
+#import "IPHObfuscationSymbols-test.h"
+
+#endif /* IPHCodeObfuscation_prefix_pch */
